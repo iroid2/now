@@ -3,7 +3,7 @@ import Button from './Button'
 
 export default function Hero() {
   return (
-    <div className='text-center flex items-center justify-center h-[500px] text-black bg-white' >
+    <div className='text-center flex flex-col items-center justify-center h-[500px] text-black bg-white' >
         <h1 className="text-3xl">
             Turn Emails into Revenue
         </h1>
